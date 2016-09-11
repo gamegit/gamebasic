@@ -9,7 +9,7 @@
     "Android":{
     	"version":"1.0.1",
     	"note":"安卓新版",
-    	"url":"apk文件下载地址，如：http://www.dcloud.io/helloh5p/HelloH5.apk"
+    	"url":"apk文件下载地址，如：http://www.dcloud.io/helloh5p/HelloH5.apk",
     	"minver":"1.0.0"
     }
 }
