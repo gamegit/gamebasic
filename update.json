@@ -1,5 +1,5 @@
 {
-	"appid":"thegame.wxhh",
+    "appid":"thegame.wxhh",
     "iOS":{
     	"version":"iOS新版本号，如：1.0.0",
     	"note":"iOS新版本描述信息，多行使用\n分割",
