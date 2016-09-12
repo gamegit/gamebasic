@@ -1,13 +1,13 @@
 {
     "appid":"thegame.wxhh",
     "iOS":{
-    	"version":"1.0.1",
+    	"version":"1.0.0",
     	"note":"苹果新版",
     	"url":"https://github.com/gamegit/gamebasic/blob/master/wxhh.ipa?raw=true",
     	"minver":"1.0.0"
     },
     "Android":{
-    	"version":"1.0.1",
+    	"version":"1.0.0",
     	"note":"安卓新版",
     	"url":"https://github.com/gamegit/gamebasic/blob/master/wxhh.apk?raw=true",
     	"minver":"1.0.0"
